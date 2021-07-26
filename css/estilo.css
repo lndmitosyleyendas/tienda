@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    padding: auto;
+    margin: auto;
+}
+body{
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.logo{
+    line-height: 68px;
+    background-color: #2D2D2E;
+    color: white;
+}
+.vacio{
+    line-height: 68px;
+    background-color: #2D2D2E;
+}
+.logocolor{
+    display: flex;
+    margin-top: 250px;
+    justify-content: 60px;
+    height: 550px;
+}
+.buscador{
+	display: flex;
+	width: 105%;
+	height: 55px;
+	justify-content: center;
+	align-items: center;
+}
+.barra{
+	width: 500px;
+	display: flex;
+	justify-content: space-between;
+}
+.bmenu{
+    width: 4000px;
+	display: flex;
+	justify-content: center;
+}
+.cajas{
+    height: 400px;
+}
